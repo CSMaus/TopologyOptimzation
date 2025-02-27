@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 3d_models/your_mesh.obj
 main.py
+/3d_models
